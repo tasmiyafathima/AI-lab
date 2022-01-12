@@ -1,5 +1,4 @@
-Implement unification in first order logic
-Anusree Manoj K(1BM18CS017)
+
 import re
 def getAttributes(expression):
     expression = expression.split("(")[1:]
